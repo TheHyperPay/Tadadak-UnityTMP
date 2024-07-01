@@ -16,7 +16,7 @@ This tool can help you print text sequentially over time easily.
 **Duties**
 - Print the letters in sequentially. (can on/off it!)
 - Can stop printing the letters.
-- Can controll printing the letters speed.
+- Can control printing the letters speed.
 
 <br>
 
