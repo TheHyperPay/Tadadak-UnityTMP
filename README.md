@@ -26,7 +26,7 @@ This tool can help you print text sequentially over time easily.
 
 ## Tadadak Settings
 
-### Progresive Printable
+### Progressive Printable
 
 If you check, start to display text progressively.<br>If you uncheck, display whole text immediately.
 
